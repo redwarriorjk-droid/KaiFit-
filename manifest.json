@@ -1,0 +1,10 @@
+{
+  "name": "KaiFit",
+  "short_name": "KaiFit",
+  "start_url": "/Kaifit/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff0000",
+  "description": "Workout and habit tracker",
+  "icons": []
+}
